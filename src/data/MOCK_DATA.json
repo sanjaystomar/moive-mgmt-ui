@@ -1,0 +1,604 @@
+{
+    "movies": [
+        {
+            "id": "ca8f8e15-03ba-45e4-84e4-732d9940ebfd",
+            "title": "Last Dragon, The",
+            "genre": "Action|Comedy|Drama",
+            "releaseYear": 1991
+        },
+        {
+            "id": "badc9a54-d9b3-4dd6-a2a3-21440c614dd0",
+            "title": "Zombie Lake (Lac des morts vivants, Le) (Zombies Lake) (Lake of the Living Dead, The)",
+            "genre": "Horror",
+            "releaseYear": 2009
+        },
+        {
+            "id": "75034230-de61-44f4-9587-5708accdcd06",
+            "title": "War of the Worlds 2: The Next Wave",
+            "genre": "Action",
+            "releaseYear": 1992
+        },
+        {
+            "id": "8cd22d90-eb92-4b82-8e64-e3e5245033ff",
+            "title": "Art and Craft",
+            "genre": "Documentary",
+            "releaseYear": 1999
+        },
+        {
+            "id": "6d658e88-ec14-4f02-9c8c-ec8b1d0677c3",
+            "title": "It's a Small World",
+            "genre": "Comedy",
+            "releaseYear": 1998
+        },
+        {
+            "id": "75b24e67-a336-4396-95bc-fe5fa1453939",
+            "title": "Hireling, The",
+            "genre": "Drama",
+            "releaseYear": 1992
+        },
+        {
+            "id": "e902ea39-639c-48a0-a775-574d236c75fb",
+            "title": "Indiscreet",
+            "genre": "Comedy|Romance",
+            "releaseYear": 1995
+        },
+        {
+            "id": "a49615a5-4735-44cd-b72f-e25b1d574678",
+            "title": "Love Without Pity",
+            "genre": "Comedy|Romance",
+            "releaseYear": 1993
+        },
+        {
+            "id": "43631a3d-91a4-413e-8635-ee7e82ecd87b",
+            "title": "Gorgeous Hussy, The",
+            "genre": "Drama",
+            "releaseYear": 2007
+        },
+        {
+            "id": "7af0d5ad-6f0e-4b67-8130-50a4c0f046b1",
+            "title": "Submarine",
+            "genre": "Comedy|Drama|Romance",
+            "releaseYear": 2010
+        },
+        {
+            "id": "55b5ff6f-d03f-4aa5-9502-1b78c5dd581c",
+            "title": "Run All Night",
+            "genre": "Action|Crime|Drama|Mystery|Thriller",
+            "releaseYear": 2005
+        },
+        {
+            "id": "730b25c8-8f0a-4cb0-9df2-55e0b8681c0a",
+            "title": "Sirens",
+            "genre": "Drama",
+            "releaseYear": 2011
+        },
+        {
+            "id": "b4a683e3-c577-43fc-83d3-b165a756e2a1",
+            "title": "Charlie Chan in Panama",
+            "genre": "Adventure|Comedy|Crime|Drama|Mystery|Thriller",
+            "releaseYear": 1993
+        },
+        {
+            "id": "47901492-3785-4ec8-bf9a-71124fe0fcd1",
+            "title": "Chelsea Girls",
+            "genre": "Drama",
+            "releaseYear": 2012
+        },
+        {
+            "id": "4b8176c2-a276-41d0-8b36-7cee45edff2d",
+            "title": "Destroyer",
+            "genre": "Adventure|Drama|War",
+            "releaseYear": 2010
+        },
+        {
+            "id": "029919cd-6f23-4788-b54b-d7fb3d4917a9",
+            "title": "Quinceañera",
+            "genre": "Drama",
+            "releaseYear": 2011
+        },
+        {
+            "id": "8d55c4a7-44dd-44fa-ab59-a43a563c18d6",
+            "title": "Camille",
+            "genre": "Drama|Romance",
+            "releaseYear": 1993
+        },
+        {
+            "id": "65c4b79f-67a6-4b1c-a740-c8f30c22be4e",
+            "title": "Jet Li's Fearless (Huo Yuan Jia)",
+            "genre": "Action|Drama",
+            "releaseYear": 2001
+        },
+        {
+            "id": "5b319716-e937-4797-a717-da95aada8f1e",
+            "title": "City Below, The (Unter dir die Stadt)",
+            "genre": "Drama",
+            "releaseYear": 2002
+        },
+        {
+            "id": "cb71127c-315a-425d-bda8-b46e648ec5be",
+            "title": "Unknown Soldier, The (Tuntematon sotilas)",
+            "genre": "Drama|War",
+            "releaseYear": 1996
+        },
+        {
+            "id": "b37f7406-bce7-4394-a75d-20466c7f3ed5",
+            "title": "Symphonie pastorale, La",
+            "genre": "Drama",
+            "releaseYear": 1991
+        },
+        {
+            "id": "bd59272f-3f26-4449-8227-dca766b73266",
+            "title": "Suspicious River",
+            "genre": "Drama",
+            "releaseYear": 2012
+        },
+        {
+            "id": "9182873e-3e85-465b-8309-685fdaa1b63d",
+            "title": "Contender, The",
+            "genre": "Drama|Thriller",
+            "releaseYear": 2012
+        },
+        {
+            "id": "56aa8b2e-8186-4ba1-af19-b6fe3dbbb862",
+            "title": "Adam & Steve",
+            "genre": "Comedy|Romance",
+            "releaseYear": 1964
+        },
+        {
+            "id": "1cc1785a-37e2-493d-9103-c9c156c5647e",
+            "title": "Endless Summer, The",
+            "genre": "Documentary",
+            "releaseYear": 2011
+        },
+        {
+            "id": "cff92e76-3add-4a4d-bcb5-0fdf86ee0d71",
+            "title": "William Kunstler: Disturbing the Universe",
+            "genre": "Documentary",
+            "releaseYear": 1992
+        },
+        {
+            "id": "f171c166-28fc-49e6-9b0f-aa1481bc6a27",
+            "title": "American Nightmare, The",
+            "genre": "Documentary",
+            "releaseYear": 2005
+        },
+        {
+            "id": "1138b1b1-beb9-483e-99af-ff9e15451857",
+            "title": "Then She Found Me",
+            "genre": "Comedy|Drama|Romance",
+            "releaseYear": 1993
+        },
+        {
+            "id": "7a9ee346-02f6-4b29-878d-ce57653481fa",
+            "title": "F.I.S.T.",
+            "genre": "Drama",
+            "releaseYear": 2010
+        },
+        {
+            "id": "f2e62166-e3d1-40b3-ac0a-b1f2f89a2557",
+            "title": "Green Hornet, The",
+            "genre": "Action|Comedy|Crime|Fantasy|Thriller|IMAX",
+            "releaseYear": 2007
+        },
+        {
+            "id": "04f333db-59b8-49be-9a5f-1bdf08d4826b",
+            "title": "Night Has a Thousand Eyes",
+            "genre": "Drama|Film-Noir",
+            "releaseYear": 2012
+        },
+        {
+            "id": "2b3a475a-49eb-4579-960f-a932ba8cdb13",
+            "title": "Emperor's Naked Army Marches On, The (Yuki Yukite shingun)",
+            "genre": "Documentary",
+            "releaseYear": 2012
+        },
+        {
+            "id": "48744cc1-d32f-468d-b155-01fbdda077af",
+            "title": "Magic Gloves, The (Los guantes mágicos)",
+            "genre": "Comedy|Drama",
+            "releaseYear": 2009
+        },
+        {
+            "id": "f1d37a48-77ae-4239-85f9-0044657569d4",
+            "title": "Three Faces of Eve, The",
+            "genre": "Drama",
+            "releaseYear": 2010
+        },
+        {
+            "id": "dea8dbad-a6f8-4860-8523-979a3d65b620",
+            "title": "Bloody Murder 2: Closing Camp",
+            "genre": "Drama|Horror|Mystery|Thriller",
+            "releaseYear": 2009
+        },
+        {
+            "id": "05be3d3d-d37b-40c3-82c6-40c5557cb198",
+            "title": "The Anomaly",
+            "genre": "Action|Sci-Fi|Thriller",
+            "releaseYear": 2002
+        },
+        {
+            "id": "4c691d51-afcf-4984-99bc-b1d6cbe8eabe",
+            "title": "21",
+            "genre": "Crime|Drama|Romance|Thriller",
+            "releaseYear": 1993
+        },
+        {
+            "id": "00252e42-55d5-44fd-8908-3e5b9f81608e",
+            "title": "Fright",
+            "genre": "Crime|Horror|Thriller",
+            "releaseYear": 2007
+        },
+        {
+            "id": "2069e4c7-2a2f-4732-b8ec-e3b2c1777ce5",
+            "title": "Homevideo",
+            "genre": "Drama",
+            "releaseYear": 2001
+        },
+        {
+            "id": "6e6abbbe-06da-413e-b26f-fe3a830f21c0",
+            "title": "Transfer",
+            "genre": "Drama|Sci-Fi",
+            "releaseYear": 2001
+        },
+        {
+            "id": "e14689b0-35e4-4c76-87c9-2ad35965b5cf",
+            "title": "Dead Pool, The",
+            "genre": "Action|Crime|Thriller",
+            "releaseYear": 2010
+        },
+        {
+            "id": "426b046c-e198-44b5-805d-0e9c1761cb3c",
+            "title": "Karthik Calling Karthik",
+            "genre": "Comedy|Drama|Thriller",
+            "releaseYear": 2010
+        },
+        {
+            "id": "64818706-9bb2-4717-9c68-e29a04cfd3cc",
+            "title": "London - The Modern Babylon ",
+            "genre": "Documentary",
+            "releaseYear": 1990
+        },
+        {
+            "id": "657f754f-a143-4af6-80d2-9b6963ac22fc",
+            "title": "Phantom Lover, The (Ye ban ge sheng)",
+            "genre": "Drama|Mystery|Romance",
+            "releaseYear": 1992
+        },
+        {
+            "id": "503e912b-8ae3-4cea-bec2-16550ce1f387",
+            "title": "If These Walls Could Talk",
+            "genre": "Drama",
+            "releaseYear": 1996
+        },
+        {
+            "id": "0b4702fb-b6e0-46b7-89c9-99d0ed8184b3",
+            "title": "American Gigolo",
+            "genre": "Drama",
+            "releaseYear": 1999
+        },
+        {
+            "id": "b02e23b4-d312-4c67-b0b1-30320fcf11d5",
+            "title": "Manny & Lo",
+            "genre": "Drama",
+            "releaseYear": 1991
+        },
+        {
+            "id": "3d9da4e9-4580-4c28-a516-488b82bdfc7e",
+            "title": "Blackout",
+            "genre": "Drama",
+            "releaseYear": 2005
+        },
+        {
+            "id": "b6ef487a-7328-4261-be2e-5e77672e46cb",
+            "title": "Miranda",
+            "genre": "Comedy|Fantasy|Romance",
+            "releaseYear": 1997
+        },
+        {
+            "id": "97aaed2f-819f-44c9-8a2d-8ee34e9a86c4",
+            "title": "Meth",
+            "genre": "Documentary",
+            "releaseYear": 1996
+        },
+        {
+            "id": "8713c3ff-9cf6-43cf-ac7a-14a9a837cc93",
+            "title": "Oklahoma Crude",
+            "genre": "Comedy|Drama|Western",
+            "releaseYear": 2008
+        },
+        {
+            "id": "a4d9cf56-e28f-4fce-8c7b-382f50024342",
+            "title": "Forbidden Fruit (Kielletty hedelmä)",
+            "genre": "Drama",
+            "releaseYear": 1998
+        },
+        {
+            "id": "f8a0a6fc-1b7f-4273-a675-8ff2f1159aa5",
+            "title": "While You Were Sleeping",
+            "genre": "Comedy|Romance",
+            "releaseYear": 2004
+        },
+        {
+            "id": "8faa790c-3ff5-4ef0-b43b-e1b70dc6cd1f",
+            "title": "Lonely Are the Brave",
+            "genre": "Drama|Western",
+            "releaseYear": 1998
+        },
+        {
+            "id": "fb6b9cc4-6a22-4542-890e-6d22bbdd3c4c",
+            "title": "All the Light in the Sky",
+            "genre": "Drama",
+            "releaseYear": 2010
+        },
+        {
+            "id": "ecb1c4c8-23a0-4af2-a47c-185f8077c0fd",
+            "title": "Man Called Horse, A",
+            "genre": "Adventure|Drama|Western",
+            "releaseYear": 2000
+        },
+        {
+            "id": "fe8aa655-ed5f-4d6a-9c70-530b5fdeb9de",
+            "title": "Black Rainbow",
+            "genre": "Thriller",
+            "releaseYear": 2001
+        },
+        {
+            "id": "e7a9b1fc-fc9c-4d88-be4a-db316a48abc8",
+            "title": "Hi-Yo Silver",
+            "genre": "Western",
+            "releaseYear": 2002
+        },
+        {
+            "id": "1b8309e5-afca-4bc0-b68f-8d6aebb27112",
+            "title": "Campfire Tales",
+            "genre": "Horror",
+            "releaseYear": 1992
+        },
+        {
+            "id": "c9d55073-3898-4bbd-b701-2ca19661826a",
+            "title": "Hamster Factor and Other Tales of Twelve Monkeys, The",
+            "genre": "Documentary",
+            "releaseYear": 2009
+        },
+        {
+            "id": "24520753-b03e-4bdd-82fc-cf9cdce5a282",
+            "title": "Other Man, The",
+            "genre": "Drama",
+            "releaseYear": 2012
+        },
+        {
+            "id": "471e4d78-9972-4778-b3f4-eb689241886b",
+            "title": "Body Parts",
+            "genre": "Horror|Thriller",
+            "releaseYear": 2005
+        },
+        {
+            "id": "9d28759f-e609-478c-8005-9d41a1c7140b",
+            "title": "My Friend Henry (Ystäväni Henry)",
+            "genre": "Children|Drama",
+            "releaseYear": 2007
+        },
+        {
+            "id": "db43c866-92ef-4a6b-ad07-9cd170b4c69b",
+            "title": "Through the Olive Trees (Zire darakhatan zeyton)",
+            "genre": "Drama",
+            "releaseYear": 2009
+        },
+        {
+            "id": "58c387d8-2bb9-46b8-a63c-cbf675f3d694",
+            "title": "Frankenstein Syndrome, The",
+            "genre": "Horror|Sci-Fi",
+            "releaseYear": 1994
+        },
+        {
+            "id": "11035863-08eb-4470-832b-d824f607ec15",
+            "title": "Not My Type",
+            "genre": "Comedy|Romance",
+            "releaseYear": 2008
+        },
+        {
+            "id": "2a977d68-6f96-4ce6-99ae-f8b8f28d135e",
+            "title": "The Hearts of Age",
+            "genre": "(no genres listed)",
+            "releaseYear": 2012
+        },
+        {
+            "id": "2b184d3a-0bfc-49e1-89eb-d4c9caebbe6a",
+            "title": "I Knew It Was You: Rediscovering John Cazale",
+            "genre": "Documentary",
+            "releaseYear": 1997
+        },
+        {
+            "id": "94086fc7-193b-4d77-8873-8eecdb34be09",
+            "title": "Gagarin: First in Space",
+            "genre": "Drama|Sci-Fi",
+            "releaseYear": 2010
+        },
+        {
+            "id": "b14984af-11e6-435a-94a3-344eb68763e7",
+            "title": "All About Anna",
+            "genre": "Comedy|Drama|Romance",
+            "releaseYear": 2009
+        },
+        {
+            "id": "9c07ad1a-c142-42b2-8711-eae052b65156",
+            "title": "Story of Marie and Julien, The (Histoire de Marie et Julien)",
+            "genre": "Drama|Mystery|Romance",
+            "releaseYear": 1995
+        },
+        {
+            "id": "60d6c7cb-b19d-4c7f-b582-68eacddbe502",
+            "title": "Thief of Paris, The (Le voleur)",
+            "genre": "Comedy|Crime|Drama",
+            "releaseYear": 1996
+        },
+        {
+            "id": "480ab5a4-b158-42d6-82c0-f5f0abc5541e",
+            "title": "Celeste and Jesse Forever (Celeste & Jesse Forever)",
+            "genre": "Comedy|Drama|Romance",
+            "releaseYear": 2004
+        },
+        {
+            "id": "286a1510-d0d9-476f-a29e-e51218b7eb71",
+            "title": "Damnation (Karhozat)",
+            "genre": "Drama|Film-Noir",
+            "releaseYear": 1995
+        },
+        {
+            "id": "be268aaa-f90f-4525-9595-84e5cfad83e6",
+            "title": "Hole, The",
+            "genre": "Horror|Thriller",
+            "releaseYear": 1996
+        },
+        {
+            "id": "00642aa2-d89a-41dc-9970-182b79bd280b",
+            "title": "Sparrows",
+            "genre": "Drama",
+            "releaseYear": 1993
+        },
+        {
+            "id": "62e2b6e8-d910-4cf2-81f5-56c1c62203c6",
+            "title": "Super Size Me",
+            "genre": "Comedy|Documentary|Drama",
+            "releaseYear": 2005
+        },
+        {
+            "id": "692d2301-106f-4ae0-afc5-cf5b24d8282c",
+            "title": "Wuthering Heights",
+            "genre": "Drama",
+            "releaseYear": 2004
+        },
+        {
+            "id": "c87bb343-6fd9-43c1-a2b9-b00dcc6f29b5",
+            "title": "Ungentlemanly Act, An",
+            "genre": "Action|Documentary|Drama|War",
+            "releaseYear": 1999
+        },
+        {
+            "id": "5520299e-511f-4c7a-b411-46e3cc930f88",
+            "title": "Only the Young",
+            "genre": "Documentary",
+            "releaseYear": 1999
+        },
+        {
+            "id": "8bca925f-d4d4-41f8-a64d-d8f57b120d0e",
+            "title": "Toto le héros",
+            "genre": "Drama",
+            "releaseYear": 1996
+        },
+        {
+            "id": "133a3465-4437-416d-91aa-2f74ed101412",
+            "title": "Jason and the Argonauts",
+            "genre": "Action|Adventure|Fantasy",
+            "releaseYear": 1995
+        },
+        {
+            "id": "64f08316-4358-4408-8d4c-b3f75f4223da",
+            "title": "Potiche",
+            "genre": "Comedy",
+            "releaseYear": 1997
+        },
+        {
+            "id": "003487f0-67be-4012-9e86-7b680c59d5d9",
+            "title": "Vincere",
+            "genre": "Drama|Romance",
+            "releaseYear": 2008
+        },
+        {
+            "id": "7643435a-7887-416b-83ac-3ee285bf991f",
+            "title": "Old Men in New Cars (Gamle mænd i nye biler)",
+            "genre": "Action|Comedy",
+            "releaseYear": 1973
+        },
+        {
+            "id": "d250276c-dd3e-47c9-8987-88172a482fba",
+            "title": "Ferryman, The",
+            "genre": "Fantasy|Horror|Thriller",
+            "releaseYear": 2002
+        },
+        {
+            "id": "6faae136-d7ff-4507-a89a-528e1313e6ae",
+            "title": "Samurai Fiction (SF: Episode One)",
+            "genre": "Action|Adventure|Comedy",
+            "releaseYear": 2000
+        },
+        {
+            "id": "951ef6be-64c8-4cbe-b71c-54eaa6c5a446",
+            "title": "Cockfighter",
+            "genre": "Drama",
+            "releaseYear": 2006
+        },
+        {
+            "id": "a559763b-fda7-460a-aac1-5680a0afb8f6",
+            "title": "Big Daddy",
+            "genre": "Comedy",
+            "releaseYear": 1996
+        },
+        {
+            "id": "89714a1e-dec0-4e32-9b03-eab3fbd7be64",
+            "title": "Libre échange",
+            "genre": "Comedy",
+            "releaseYear": 2005
+        },
+        {
+            "id": "6d14a3fb-bd76-4a89-8225-9ebf91da6e1e",
+            "title": "Kiss of the Damned",
+            "genre": "Horror|Romance|Thriller",
+            "releaseYear": 2011
+        },
+        {
+            "id": "19c7418b-9092-4e75-800f-4324432b0088",
+            "title": "Pinocchio",
+            "genre": "Children|Fantasy|Musical",
+            "releaseYear": 1995
+        },
+        {
+            "id": "64af29d5-8df7-457d-8906-366fdf0c5253",
+            "title": "Uncounted: The New Math of American Elections",
+            "genre": "Documentary",
+            "releaseYear": 1990
+        },
+        {
+            "id": "b0fa0a47-6b94-42f2-9267-78d3e21d912f",
+            "title": "Barber of Siberia, The (Sibirskij tsiryulnik)",
+            "genre": "Drama|Romance",
+            "releaseYear": 2002
+        },
+        {
+            "id": "9c765914-cc03-443e-811a-2858d719eac4",
+            "title": "Nine Ways to Approach Helsinki (Yhdeksän tapaa lähestyä Helsinkiä)",
+            "genre": "Documentary",
+            "releaseYear": 2003
+        },
+        {
+            "id": "e87aa8be-a708-485a-8e73-e687a4f32b43",
+            "title": "Greatest Show on Earth, The",
+            "genre": "Drama",
+            "releaseYear": 2007
+        },
+        {
+            "id": "4823d83d-7853-4eab-8b7d-594d72f643b6",
+            "title": "In America",
+            "genre": "Drama|Romance",
+            "releaseYear": 2005
+        },
+        {
+            "id": "c607016f-7dd9-4483-a109-48224cbd8115",
+            "title": "You've Got Mail",
+            "genre": "Comedy|Romance",
+            "releaseYear": 2008
+        },
+        {
+            "id": "76429660-9d9d-40d3-9533-dde7ad0cdbf9",
+            "title": "Time Stood Still (Il tempo si è fermato)",
+            "genre": "Drama",
+            "releaseYear": 1996
+        },
+        {
+            "id": "cd29872d-1548-4611-b02c-6a37bbeb967e",
+            "title": "Secret Reunion (Ui-hyeong-je)",
+            "genre": "Drama|Thriller",
+            "releaseYear": 2012
+        }
+    ]
+}
